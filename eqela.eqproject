@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# mobile2
+#
+
+projectname: mobile2
+vendorid: com.jezzy.mobile2
+mainmodule: com.jezzy.mobile2.mobile2
